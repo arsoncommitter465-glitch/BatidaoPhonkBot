@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "TungBot123",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "tungsahurporn123.aternos.me",
+    "port": 24602,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,16 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Sometimes i wonder if i should transition....",
+        "I think i could make this in blender in 5 minutes",
+        "Bore is lowk a furry",
+        "Twin fantasy is geniunenly the most gayest piece of music ever made",
+        "Let down underrated",
+        "I secretly have a futa fetish",
+        "the baka meme is still MASSIVE",
+        "It really only takes one gut punch",
+        "Maki>Zenin",
+        "my name is TungBot123 (name subject to change)"
       ]
     },
     "chat-log": true,
